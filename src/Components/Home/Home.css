@@ -1,0 +1,11 @@
+.home {
+    background-image: url('../../images/Bg.png');
+    background-size: contain;
+    height: 100vh;
+  }
+  img{
+      height: 75px;
+  }
+  h3{
+      margin-top: 20px;
+  }
