@@ -1,2 +1,2 @@
 # react-auth-fem97
-Live Link: https://suspicious-benz-d23199.netlify.app/
+Live Link: https://quick-ride-react.netlify.app/
